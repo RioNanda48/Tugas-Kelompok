@@ -3,7 +3,7 @@
 @section('content')
     <h1>List Cosplayers</h1>
 
-    <table>
+    <table class="table">
         <thead>
             <tr>
                 <th>ID</th>
