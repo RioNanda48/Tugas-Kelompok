@@ -3,17 +3,13 @@
 @section('content')
     <h1>List Costume</h1>
 
-    <table>
+    <table class="table">
         <thead>
             <tr>
-                <th>ID</th>
-                <th>Cosplayer ID</th>
+                <th>Outfit ID</th>
                 <th>Outfit Name</th>
                 <th>Size</th>
                 <th>Stock</th>
-                <th>Rental Date</th>
-                <th>Return Date</th>
-                <th>Is Return</th>
             </tr>
         </thead>
         <tbody>
