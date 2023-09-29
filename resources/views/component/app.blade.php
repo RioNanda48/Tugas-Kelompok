@@ -1,4 +1,3 @@
-
 @include('component.header') 
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -8,10 +7,9 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link active" aria-current="page" href="Cosplay">Home</a>
-            <a class="nav-link" href="Cosplayer">Cosplayer</a>
-            <a class="nav-link" href="#">Rents</a>
-            <a class="nav-link" href="#">Stok</a>
+            <a class="nav-link active" aria-current="page" href="/">Outfit</a>
+            <a class="nav-link active" aria-current="page" href="Cosplayer">Cosplayer</a>
+            <a class="nav-link active" aria-current="page" href="Rents">Rents</a>
           </div>
         </div>
       </div>
